@@ -1,13 +1,13 @@
 import streamlit as st
-# import serial
+import serial
 import time
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import datetime
-# import seaborn as sns
+import seaborn as sns
 import plotly.express as px
-# from generator import *
+from generator import *
 from scipy.stats import pearsonr
 from sklearn import linear_model, metrics
 from sklearn.metrics import r2_score
