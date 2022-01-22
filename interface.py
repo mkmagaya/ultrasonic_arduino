@@ -20,7 +20,7 @@ from scipy import stats
 
 # loading data captured from the sensor for processing
 st.write("""
-        # Tracking Project
+        # University of Zimbabwe Tracking Project
         ### Collecting** Distance** and **Time** of a** Mine** ###
         #""")
  
